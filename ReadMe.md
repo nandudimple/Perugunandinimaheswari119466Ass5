@@ -1,0 +1,1 @@
+Generic Intersections among several segments which are generated randomly checks whether segments are intersected or not. Here segments are sorted by using selection sort algorithm. 
